@@ -1,1 +1,5 @@
-# ge_pensamentoc_turmaq
+ # Projeto deesnvolvido durante a 3ª Jornada no GE
+
+ ## Pensamento Computacional no Ensino Médio
+
+ Turma Q - Sextas (14h)
