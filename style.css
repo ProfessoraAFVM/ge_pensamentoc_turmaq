@@ -5,7 +5,7 @@ p {
 
 body {
     text-align: center;
-    background-color: #93B1A6;
+    background-color: #451952;
 }
 
 #titulo {
@@ -18,5 +18,5 @@ body {
 .texto {
     text-align: justify;
     font-size: 20px;
-    color: #040D12;
+    color: gray
 }
