@@ -3,12 +3,18 @@ p {
     font-size: 20px;
 }
 
-body { 
+body {
     text-align: center;
 }
 
-#titulo{
+#titulo {
     font-size: 32px;
     text-align: center;
     text-transform: uppercase;
+}
+
+.texto {
+    text-align: justify;
+    font-size: 20px;
+    color: gray;
 }
