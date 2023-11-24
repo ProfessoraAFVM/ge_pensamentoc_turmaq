@@ -6,14 +6,13 @@ p {
 
 body {
     text-align: left;
-    
+
 }
 
 #titulo {
     font-size: 32px;
     text-align: center;
     text-transform: uppercase;
-    color: #040D12;
 }
 
 .texto {
